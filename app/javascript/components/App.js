@@ -5,7 +5,6 @@ import Greeting from "./Greeting";
 import store from "../store/createStore";
 
 const App = () => {
-  console.log(store);
   return (
     <Provider store={store}>
       <BrowserRouter>
