@@ -7,11 +7,11 @@
 
 ## Setup
 >- Git clone `https://github.com/ramrod433/rails-react.git`
->- cd hello-rails-react
+>- cd rails-react
 >- bundle install
 >- rails db:create db:migrate
->- yarn install
->- yarn build
+>- npm install
+>- npm run build
 >- rails server
 
 ## Built With
